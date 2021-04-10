@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+mails/
+mailboxfsvenv/
+Mailbox_as_a_Filesystem.egg-info/
+.env.bash
